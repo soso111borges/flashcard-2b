@@ -1,41 +1,41 @@
 CriaCartao(
      "programação 2.0"
-     "O que é phyton?"
-     "phynton é uma linguagem de programação"
+     "quem é o maior time e que tem a melhor torcida do mundo?"
+     "CORINTHIANS"
 )   
 
 CriaCartao(
     "programação 2.0"
-    "quando o corinthians ganhou seu primeiro mundial?"
-    "ganhou no ano 2000"
+    "Em que ano o corinthians ganhou seu primeiro paulista?"
+    "ganhou no ano de 1914"
 )   
 
 CriaCartao(
     "programação 2.0"
-    "O que é phyton?"
-    "phynton é uma linguagem de programação"
+    "o que significa CP?"
+    "significa club do povo ou corinthians paulista"
 )   
 
 CriaCartao(
     "programação 2.0"
-    "O que é phyton?"
-    "phynton é uma linguagem de programação"
+    "O que aconteceu no dia 12/12/12?"
+    "corinthians ganhou seu segundo mundial"
 )   
 
 CriaCartao(
     "programação 2.0"
-    "O que é phyton?"
-    "phynton é uma linguagem de programação"
+    "que é o mascote do corinthians?"
+    "é um mosqueteiro"
 )   
 
 CriaCartao(
     "programação 2.0"
-    "O que é phyton?"
-    "phynton é uma linguagem de programação"
+    "quem é considerado o pior time do brasileirão?"
+    "palmeiras e são paulo"
 )   
 
 CriaCartao(
     "programação 2.0"
-    "O que é phyton?"
-    "phynton é uma linguagem de programação"
+    "quando roger guedes volta?"
+    "NUNCA"
 )   
