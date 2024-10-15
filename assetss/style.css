@@ -91,10 +91,6 @@ footer p {
     margin-top: 5.0rem;
 }
 
-
-
-
-
 @media (max-width: 560px) {
     body {
         background: url('img\bg-mobile,wep');
